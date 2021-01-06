@@ -1,4 +1,4 @@
-//二分查找 输入的元素必须有序//
+//二分查找 输入的元素必须有序////
 public class BinarySort
 {
     public static int binary(int[] array, int value)
